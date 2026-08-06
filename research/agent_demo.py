@@ -79,7 +79,7 @@ print(prompt)
 tools = [search_tool, get_weather_data]
 
 # ==========================================
-# CREATE AGENT 
+# CREATE AGENT    
 # ==========================================
 
 agent = create_react_agent(
